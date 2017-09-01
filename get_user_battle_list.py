@@ -1,5 +1,7 @@
 #coding:utf-8
 
+# 使用之前需要先安装phantomjs
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait

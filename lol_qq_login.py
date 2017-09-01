@@ -32,7 +32,7 @@ dcap["phantomjs.page.settings.userAgent"] = (
 browser = webdriver.PhantomJS(executable_path='C:\\phantomjs\\bin\\phantomjs.exe', desired_capabilities=dcap)
 browser.implicitly_wait(10)
 
-# 获取LOL官网页面并点出登录
+# 获取LOL官网页面并点击登录
 browser.get('http://lol.qq.com/')
 
 print "获取lol.qq.com：", time.time()

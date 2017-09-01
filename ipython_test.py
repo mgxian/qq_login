@@ -1,3 +1,5 @@
+# 使用之前需要先安装phantomjs
+
 from selenium import webdriver
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import time
