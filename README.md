@@ -1,6 +1,6 @@
 # qq_login
 
-web模拟QQ登录获取cookie
+使用phantomjs/chrome打开qq的web登录页，自动输入用户名和密码，登录成功后获取cookie
 
 > 注意
 1. 使用前先安装selenium的python包
