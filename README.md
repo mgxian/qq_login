@@ -9,3 +9,4 @@ pip install selenium
 ```
 2. 还需要安装phantomjs或者chromedriver
 3. 不支持识别验证码，登录前请保证不需要输入验证码
+4. 使用python2.7
